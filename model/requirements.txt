@@ -1,0 +1,10 @@
+
+Libraries:
+
+opencv
+numpy
+os
+
+An anaconda environment is preferred
+clean cam before use
+Run face_data.py file first and then run face_recognition.py file
